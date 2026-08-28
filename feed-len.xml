@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-27 04:23">
+<yml_catalog date="2026-08-28 01:45">
   <shop>
     <name>Телмарт</name>
-    <company>ТОДО: юрлицо</company>
-    <url>ТОДО: сайт/ссылка магазина</url>
+    <company>ИП Поликарпова Наталья Егоровна</company>
+    <url>https://2gis.ru/yakutsk/branches/70000001027112032</url>
     <currencies>
       <currency id="RUB" rate="1"/>
     </currencies>
@@ -11,7 +11,33 @@
       <category id="1">Мобильные телефоны</category>
     </categories>
     <offers>
+    <offer id="353007117554996" available="true">
+      <name>Apple iPhone 12 mini 256Гб черный</name>
+      <price>20990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353007117554996/1787808966716.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353007117554996/1787808967893.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353007117554996/1787808968952.jpg</picture>
+      <description>Продается Apple iPhone 12 mini 256 Гб черный
+🔹 Состояние: идеальное
+🔹 Полная проверка: Все функции работают безупречно – экран, камеры, микрофон, динамики, Face ID, Wi-Fi, Bluetooth.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
 
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">256 Гб</param>
+      <param name="Цвет">черный</param>
+      <param name="Состояние">идеальное</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
     </offers>
   </shop>
 </yml_catalog>

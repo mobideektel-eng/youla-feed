@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-27 04:23">
+<yml_catalog date="2026-08-28 01:45">
   <shop>
     <name>Мобидик</name>
-    <company>ТОДО: юрлицо</company>
-    <url>ТОДО: сайт/ссылка магазина</url>
+    <company>ИП Пономарёв Богдан Александрович</company>
+    <url>https://2gis.ru/yakutsk/branches/70000001027112032</url>
     <currencies>
       <currency id="RUB" rate="1"/>
     </currencies>
