@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-18 01:17">
+<yml_catalog date="2026-09-18 04:17">
   <shop>
     <name>Мобидик</name>
     <company>ИП Пономарёв Богдан Александрович</company>
@@ -11,6 +11,35 @@
       <category id="1">Мобильные телефоны</category>
     </categories>
     <offers>
+    <offer id="358018154138267" available="true">
+      <name>Apple iPhone 13 128Гб розовый</name>
+      <price>29990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358018154138267/-1004472974528_1569.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358018154138267/-1004472974528_1570.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358018154138267/-1004472974528_1571.jpg</picture>
+      <description>Продается Apple iPhone 13 128 Гб розовый
+Корпус: Без следов эксплуатации
+Экран: Без дефектов
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">128 Гб</param>
+      <param name="Цвет">розовый</param>
+      <param name="Состояние">Без следов эксплуатации</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
     <offer id="357479185303141" available="true">
       <name>Apple iPhone 13 128Гб чёрный</name>
       <price>29990</price>
@@ -64,6 +93,35 @@
 🔥 Цена действует при оплате наличными!</description>
       <param name="Память">128 Гб</param>
       <param name="Цвет">белый</param>
+      <param name="Состояние">Без следов эксплуатации</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
+    <offer id="357311180663569" available="true">
+      <name>Apple iPhone 13 mini 256Гб синий</name>
+      <price>29990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357311180663569/-1004472974528_1600.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357311180663569/-1004472974528_1601.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357311180663569/-1004472974528_1602.jpg</picture>
+      <description>Продается Apple iPhone 13 mini 256 Гб синий
+Корпус: Без следов эксплуатации
+Экран: Без дефектов
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">256 Гб</param>
+      <param name="Цвет">синий</param>
       <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
@@ -419,35 +477,6 @@
       <premium>0</premium>
       <boost>0</boost>
     </offer>
-    <offer id="357447885125353" available="true">
-      <name>Apple iPhone 13 Pro Max 512Гб синий</name>
-      <price>52990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357447885125353/-1004472974528_369.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357447885125353/-1004472974528_370.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357447885125353/-1004472974528_371.jpg</picture>
-      <description>Продается Apple iPhone 13 Pro Max 512 Гб синий
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">512 Гб</param>
-      <param name="Цвет">синий</param>
-      <param name="Состояние">Без следов эксплуатации</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
     <offer id="354071158215833" available="true">
       <name>Apple iPhone 13 Pro 256Гб графит</name>
       <price>44990</price>
@@ -530,6 +559,35 @@
 🔥 Цена действует при оплате наличными!</description>
       <param name="Память">256 Гб</param>
       <param name="Цвет">черный</param>
+      <param name="Состояние">Без следов эксплуатации</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
+    <offer id="357447885125353" available="true">
+      <name>Apple iPhone 13 Pro Max 512Гб синий</name>
+      <price>52990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357447885125353/-1004472974528_369.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357447885125353/-1004472974528_370.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357447885125353/-1004472974528_371.jpg</picture>
+      <description>Продается Apple iPhone 13 Pro Max 512 Гб синий
+Корпус: Без следов эксплуатации
+Экран: Без дефектов
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">512 Гб</param>
+      <param name="Цвет">синий</param>
       <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
@@ -650,6 +708,35 @@
       <param name="Память">512 Гб</param>
       <param name="Цвет">черный</param>
       <param name="Состояние">Незначительные следы</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
+    <offer id="355277718393361" available="true">
+      <name>Apple iPhone 15 512Гб розовый</name>
+      <price>52990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/355277718393361/-1004472974528_1535.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/355277718393361/-1004472974528_1536.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/355277718393361/-1004472974528_1537.jpg</picture>
+      <description>Продается Apple iPhone 15 512 Гб розовый
+Корпус: Без следов эксплуатации
+Экран: Без дефектов
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">512 Гб</param>
+      <param name="Цвет">розовый</param>
+      <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
       <boost>0</boost>
