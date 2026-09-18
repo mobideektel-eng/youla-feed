@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-18 07:17">
+<yml_catalog date="2026-09-18 09:17">
   <shop>
     <name>Мобидик</name>
     <company>ИП Пономарёв Богдан Александрович</company>
@@ -11,35 +11,6 @@
       <category id="1">Мобильные телефоны</category>
     </categories>
     <offers>
-    <offer id="358018154138267" available="true">
-      <name>Apple iPhone 13 128Гб розовый</name>
-      <price>29990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358018154138267/-1004472974528_1569.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358018154138267/-1004472974528_1570.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358018154138267/-1004472974528_1571.jpg</picture>
-      <description>Продается Apple iPhone 13 128 Гб розовый
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">128 Гб</param>
-      <param name="Цвет">розовый</param>
-      <param name="Состояние">Без следов эксплуатации</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
     <offer id="357479185303141" available="true">
       <name>Apple iPhone 13 128Гб чёрный</name>
       <price>29990</price>
