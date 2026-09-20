@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-20 04:17">
+<yml_catalog date="2026-09-20 05:17">
   <shop>
     <name>Мобидик</name>
     <company>ИП Дьячковский Дмитрий Северинович</company>
@@ -325,35 +325,6 @@
 🔥 Цена действует при оплате наличными!</description>
       <param name="Память">256 Гб</param>
       <param name="Цвет">золотой</param>
-      <param name="Состояние">Без следов эксплуатации</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
-    <offer id="357946223578108" available="true">
-      <name>Apple iPhone 13 256Гб черный</name>
-      <price>31990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357946223578108/-1004472974528_1038.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357946223578108/-1004472974528_1039.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/357946223578108/-1004472974528_1040.jpg</picture>
-      <description>Продается Apple iPhone 13 256 Гб черный
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">256 Гб</param>
-      <param name="Цвет">черный</param>
       <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
