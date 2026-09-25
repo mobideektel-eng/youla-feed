@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-25 03:18">
+<yml_catalog date="2026-09-25 07:17">
   <shop>
     <name>Мобидик</name>
     <company>ИП Дьячковский Дмитрий Северинович</company>
@@ -156,6 +156,35 @@
       <premium>0</premium>
       <boost>0</boost>
     </offer>
+    <offer id="358440351593690" available="true">
+      <name>Apple iPhone 13 mini 256Гб чёрный</name>
+      <price>29990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358440351593690/-1004472974528_2292.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358440351593690/-1004472974528_2293.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358440351593690/-1004472974528_2294.jpg</picture>
+      <description>Продается Apple iPhone 13 mini 256 Гб чёрный
+Корпус: Без следов эксплуатации
+Экран: Без дефектов
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">256 Гб</param>
+      <param name="Цвет">чёрный</param>
+      <param name="Состояние">Без следов эксплуатации</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
     <offer id="358393419572463" available="true">
       <name>Apple iPhone 14 128Гб белый</name>
       <price>34990</price>
@@ -180,6 +209,65 @@
 🔥 Цена действует при оплате наличными!</description>
       <param name="Память">128 Гб</param>
       <param name="Цвет">белый</param>
+      <param name="Состояние">Без следов эксплуатации</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
+    <offer id="352705824143679" available="true">
+      <name>Apple iPhone 14 256Гб белый</name>
+      <price>38990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/352705824143679/-1004472974528_2325.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/352705824143679/-1004472974528_2326.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/352705824143679/-1004472974528_2327.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/352705824143679/-1004472974528_2332.jpg</picture>
+      <description>Продается Apple iPhone 14 256 Гб белый
+Корпус: Без следов эксплуатации
+Экран: Без дефектов
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">256 Гб</param>
+      <param name="Цвет">белый</param>
+      <param name="Состояние">Без следов эксплуатации</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
+    <offer id="350923213654444" available="true">
+      <name>Apple iPhone 14 256Гб чёрный</name>
+      <price>38990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/350923213654444/-1004472974528_2362.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/350923213654444/-1004472974528_2363.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/350923213654444/-1004472974528_2364.jpg</picture>
+      <description>Продается Apple iPhone 14 256 Гб чёрный
+Корпус: Без следов эксплуатации
+Экран: Без дефектов
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">256 Гб</param>
+      <param name="Цвет">чёрный</param>
       <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
