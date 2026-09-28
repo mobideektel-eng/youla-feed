@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-28 10:17">
+<yml_catalog date="2026-09-28 11:17">
   <shop>
     <name>Мобидик</name>
     <company>ИП Пономарёв Богдан Александрович</company>
@@ -476,7 +476,7 @@
     </offer>
     <offer id="353115824330509" available="true">
       <name>Apple iPhone 14 Pro 256Гб золотой</name>
-      <price>49990</price>
+      <price>54990</price>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
       <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353115824330509/-1004472974528_2228.jpg</picture>
