@@ -1,73 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-28 08:47"><shop><name>Мобидик</name><company>ИП Дьячковский Дмитрий Северинович</company><url>https://2gis.ru/yakutsk/branches/70000001027112032</url><currencies><currency id="RUR" rate="1"/></currencies><categories><category id="1">Смартфоны</category></categories><offers><offer id="iphone_17_256" available="true"><name>Apple iPhone 17 256GB Blue</name><price>84990</price><currencyId>RUR</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_blue/7ed593ee-a3ea-46b8-ab6a-7995213c9d42/-1004472974528_2114.jpg</picture><description>Apple iPhone 17 256GB
+<yml_catalog date="2026-09-29 01:10"><shop><name>Мобидик</name><company>ИП Дьячковский Дмитрий Северинович</company><url>https://2gis.ru/yakutsk/branches/70000001027112032</url><currencies><currency id="RUB" rate="1"/></currencies><categories><category id="1">Мобильные телефоны</category></categories><offers><offer id="iphone_17_256" available="true"><name>Apple iPhone 17 256 Гб белый</name><price>83990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_white/31464b72-2eb5-4ea9-8b1e-9dc9d21b3772/-1004472974528_2138.jpg</picture><description>Apple iPhone 17 256GB
 
 Новый смартфон.
 
-eSIM — от 84 990 ₽
-SIM + eSIM — от 85 990 ₽
+eSIM — от 83 990 ₽
+SIM + eSIM — от 84 990 ₽
 
 Цена в объявлении указана за версию eSIM.
-Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Состояние">Новое</param><param name="Цвет">Blue</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
-<offer id="iphone_17_512" available="true"><name>Apple iPhone 17 512GB Black</name><price>98990</price><currencyId>RUR</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_black/e77bc179-d637-48f9-8152-b4272f16d09f/-1004472974528_2106.jpg</picture><description>Apple iPhone 17 512GB
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">256 Гб</param><param name="Цвет">белый</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
+<offer id="iphone_17_512" available="true"><name>Apple iPhone 17 512 Гб чёрный</name><price>96990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_black/e77bc179-d637-48f9-8152-b4272f16d09f/-1004472974528_2106.jpg</picture><description>Apple iPhone 17 512GB
 
 Новый смартфон.
 
-eSIM — от 98 990 ₽
-SIM + eSIM — от 99 990 ₽
+eSIM — от 96 990 ₽
+SIM + eSIM — от 97 990 ₽
 
 Цена в объявлении указана за версию eSIM.
-Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Состояние">Новое</param><param name="Цвет">Black</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
-<offer id="iphone_17_pro_1tb" available="true"><name>Apple iPhone 17 Pro 1TB Orange</name><price>130990</price><currencyId>RUR</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_orange/b73bd1e8-025c-49e7-93fd-8193a154d33d/-1004472974528_2161.jpg</picture><description>Apple iPhone 17 Pro 1TB
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">512 Гб</param><param name="Цвет">чёрный</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
+<offer id="iphone_17_pro_1tb" available="true"><name>Apple iPhone 17 Pro 1 Тб оранжевый</name><price>127990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_orange/b73bd1e8-025c-49e7-93fd-8193a154d33d/-1004472974528_2161.jpg</picture><description>Apple iPhone 17 Pro 1TB
 
 Новый смартфон.
 
-eSIM — от 130 990 ₽
+eSIM — от 127 990 ₽
 SIM + eSIM — от 145 990 ₽
 
 Цена в объявлении указана за версию eSIM.
-Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Состояние">Новое</param><param name="Цвет">Orange</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
-<offer id="iphone_17_pro_256" available="true"><name>Apple iPhone 17 Pro 256GB Orange</name><price>103990</price><currencyId>RUR</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_orange/b73bd1e8-025c-49e7-93fd-8193a154d33d/-1004472974528_2161.jpg</picture><description>Apple iPhone 17 Pro 256GB
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">1 Тб</param><param name="Цвет">оранжевый</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
+<offer id="iphone_17_pro_256" available="true"><name>Apple iPhone 17 Pro 256 Гб оранжевый</name><price>102990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_orange/b73bd1e8-025c-49e7-93fd-8193a154d33d/-1004472974528_2161.jpg</picture><description>Apple iPhone 17 Pro 256GB
 
 Новый смартфон.
 
-eSIM — от 103 990 ₽
-SIM + eSIM — от 107 990 ₽
+eSIM — от 102 990 ₽
+SIM + eSIM — от 105 990 ₽
 
 Цена в объявлении указана за версию eSIM.
-Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Состояние">Новое</param><param name="Цвет">Orange</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
-<offer id="iphone_17_pro_512" available="true"><name>Apple iPhone 17 Pro 512GB Orange</name><price>117990</price><currencyId>RUR</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_orange/b73bd1e8-025c-49e7-93fd-8193a154d33d/-1004472974528_2161.jpg</picture><description>Apple iPhone 17 Pro 512GB
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">256 Гб</param><param name="Цвет">оранжевый</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
+<offer id="iphone_17_pro_512" available="true"><name>Apple iPhone 17 Pro 512 Гб оранжевый</name><price>116990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_orange/b73bd1e8-025c-49e7-93fd-8193a154d33d/-1004472974528_2161.jpg</picture><description>Apple iPhone 17 Pro 512GB
 
 Новый смартфон.
 
-eSIM — от 117 990 ₽
-SIM + eSIM — от 126 990 ₽
+eSIM — от 116 990 ₽
+SIM + eSIM — от 125 990 ₽
 
 Цена в объявлении указана за версию eSIM.
-Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Состояние">Новое</param><param name="Цвет">Orange</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
-<offer id="iphone_17_pro_max_1tb" available="true"><name>Apple iPhone 17 Pro Max 1TB Orange</name><price>146990</price><currencyId>RUR</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_max_orange/90524559-c0c6-45db-a494-918c20ff36b9/-1004472974528_2176.jpg</picture><description>Apple iPhone 17 Pro Max 1TB
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">512 Гб</param><param name="Цвет">оранжевый</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
+<offer id="iphone_17_pro_max_1tb" available="true"><name>Apple iPhone 17 Pro Max 1 Тб оранжевый</name><price>143990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_max_orange/90524559-c0c6-45db-a494-918c20ff36b9/-1004472974528_2176.jpg</picture><description>Apple iPhone 17 Pro Max 1TB
 
 Новый смартфон.
 
-eSIM — от 146 990 ₽
-SIM + eSIM — от 172 990 ₽
+eSIM — от 143 990 ₽
+SIM + eSIM — от 168 990 ₽
 
 Цена в объявлении указана за версию eSIM.
-Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Состояние">Новое</param><param name="Цвет">Orange</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
-<offer id="iphone_17_pro_max_256" available="true"><name>Apple iPhone 17 Pro Max 256GB Orange</name><price>110990</price><currencyId>RUR</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_max_orange/90524559-c0c6-45db-a494-918c20ff36b9/-1004472974528_2176.jpg</picture><description>Apple iPhone 17 Pro Max 256GB
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">1 Тб</param><param name="Цвет">оранжевый</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
+<offer id="iphone_17_pro_max_256" available="true"><name>Apple iPhone 17 Pro Max 256 Гб оранжевый</name><price>109990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_max_orange/90524559-c0c6-45db-a494-918c20ff36b9/-1004472974528_2176.jpg</picture><description>Apple iPhone 17 Pro Max 256GB
 
 Новый смартфон.
 
-eSIM — от 110 990 ₽
-SIM + eSIM — от 117 990 ₽
+eSIM — от 109 990 ₽
+SIM + eSIM — от 115 990 ₽
 
 Цена в объявлении указана за версию eSIM.
-Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Состояние">Новое</param><param name="Цвет">Orange</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
-<offer id="iphone_17_pro_max_512" available="true"><name>Apple iPhone 17 Pro Max 512GB Orange</name><price>125990</price><currencyId>RUR</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_max_orange/90524559-c0c6-45db-a494-918c20ff36b9/-1004472974528_2176.jpg</picture><description>Apple iPhone 17 Pro Max 512GB
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">256 Гб</param><param name="Цвет">оранжевый</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
+<offer id="iphone_17_pro_max_2tb" available="true"><name>Apple iPhone 17 Pro Max 2 Тб оранжевый</name><price>156990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_max_orange/90524559-c0c6-45db-a494-918c20ff36b9/-1004472974528_2176.jpg</picture><description>Apple iPhone 17 Pro Max 2TB
+
+Новый смартфон.
+
+eSIM — от 156 990 ₽
+SIM + eSIM — от 176 990 ₽
+
+Цена в объявлении указана за версию eSIM.
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">2 Тб</param><param name="Цвет">оранжевый</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer>
+<offer id="iphone_17_pro_max_512" available="true"><name>Apple iPhone 17 Pro Max 512 Гб оранжевый</name><price>125990</price><currencyId>RUB</currencyId><categoryId>1</categoryId><picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/new-photos/iphone_17_pro_max_orange/90524559-c0c6-45db-a494-918c20ff36b9/-1004472974528_2176.jpg</picture><description>Apple iPhone 17 Pro Max 512GB
 
 Новый смартфон.
 
 eSIM — от 125 990 ₽
-SIM + eSIM — от 137 990 ₽
+SIM + eSIM — от 133 990 ₽
 
 Цена в объявлении указана за версию eSIM.
-Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Состояние">Новое</param><param name="Цвет">Orange</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer></offers></shop></yml_catalog>
+Доступность цветов и актуальную стоимость уточняйте перед покупкой.</description><param name="Память">512 Гб</param><param name="Цвет">оранжевый</param><param name="Состояние">Новое</param><turbo>0</turbo><premium>0</premium><boost>0</boost></offer></offers></shop></yml_catalog>
