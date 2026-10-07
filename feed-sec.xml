@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-30 08:17">
+<yml_catalog date="2026-10-07 01:16">
   <shop>
     <name>Мобидик</name>
     <company>ИП Пономарёв Богдан Александрович</company>
@@ -69,35 +69,6 @@
       <premium>0</premium>
       <boost>0</boost>
     </offer>
-    <offer id="358900784204611" available="true">
-      <name>Apple iPhone 13 Pro Max 256Гб чёрный</name>
-      <price>49990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358900784204611/-1004472974528_338.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358900784204611/-1004472974528_339.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358900784204611/-1004472974528_340.jpg</picture>
-      <description>Продается Apple iPhone 13 Pro Max 256 Гб чёрный
-Корпус: Незначительные следы
-Экран: Без дефектов
-Здоровье АКБ: 86%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">256 Гб</param>
-      <param name="Цвет">чёрный</param>
-      <param name="Состояние">Незначительные следы</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
     <offer id="351952294847667" available="true">
       <name>Apple iPhone 14 128Гб черный</name>
       <price>34990</price>
@@ -123,90 +94,6 @@
       <param name="Память">128 Гб</param>
       <param name="Цвет">черный</param>
       <param name="Состояние">Незначительные следы</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
-    <offer id="352705825287947" available="true">
-      <name>Apple iPhone 14 256Гб белый</name>
-      <price>38990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/352705825287947/-1004472974528_2431.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/352705825287947/-1004472974528_2433.jpg</picture>
-      <description>Продается Apple iPhone 14 256 Гб белый
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">256 Гб</param>
-      <param name="Цвет">белый</param>
-      <param name="Состояние">Без следов эксплуатации</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
-    <offer id="352705821280003" available="true">
-      <name>Apple iPhone 14 256Гб белый</name>
-      <price>38990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/352705821280003/-1004472974528_2461.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/352705821280003/-1004472974528_2463.jpg</picture>
-      <description>Продается Apple iPhone 14 256 Гб белый
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">256 Гб</param>
-      <param name="Цвет">белый</param>
-      <param name="Состояние">Без следов эксплуатации</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
-    <offer id="358049679731039" available="true">
-      <name>Apple iPhone 14 256Гб чёрный</name>
-      <price>38990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358049679731039/-1004472974528_2491.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/358049679731039/-1004472974528_2493.jpg</picture>
-      <description>Продается Apple iPhone 14 256 Гб чёрный
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">256 Гб</param>
-      <param name="Цвет">чёрный</param>
-      <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
       <boost>0</boost>
@@ -358,19 +245,19 @@
       <premium>0</premium>
       <boost>0</boost>
     </offer>
-    <offer id="356918381201824" available="true">
-      <name>Samsung Galaxy S25 Ultra 512Гб золотой</name>
-      <price>71990</price>
+    <offer id="353149674152200" available="true">
+      <name>Apple iPhone 15 Pro 256Гб белый титан</name>
+      <price>63990</price>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381201824/-1004472974528_733.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381201824/-1004472974528_734.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381201824/-1004472974528_735.jpg</picture>
-      <description>Продается Samsung Galaxy S25 Ultra 512 Гб золотой
-Корпус: Незначительные следы
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353149674152200/-1004472974528_2872.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353149674152200/-1004472974528_2873.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353149674152200/-1004472974528_2874.jpg</picture>
+      <description>Продается Apple iPhone 15 Pro 256 Гб белый титан
+Корпус: Без следов эксплуатации
 Экран: Без дефектов
-Здоровье АКБ: Процент недоступен
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Сканер отпечатка, Распознавание лица, NFC.
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
 🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
 
 🚚 Условия продажи:
@@ -380,22 +267,22 @@
 ✔️ Гарантия надежности – никаких скрытых дефектов
 
 🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">512 Гб</param>
-      <param name="Цвет">золотой</param>
-      <param name="Состояние">Незначительные следы</param>
+      <param name="Память">256 Гб</param>
+      <param name="Цвет">белый титан</param>
+      <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
       <boost>0</boost>
     </offer>
-    <offer id="353618267663237" available="true">
-      <name>Apple iPhone 13 256Гб черный</name>
-      <price>31990</price>
+    <offer id="350922059529827" available="true">
+      <name>Apple iPhone 16 Pro 256Гб черный</name>
+      <price>79990</price>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353618267663237/-1004472974528_143.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353618267663237/-1004472974528_144.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353618267663237/-1004472974528_145.jpg</picture>
-      <description>Продается Apple iPhone 13 256 Гб черный
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/350922059529827/-1004472974528_2841.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/350922059529827/-1004472974528_2842.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/350922059529827/-1004472974528_2843.jpg</picture>
+      <description>Продается Apple iPhone 16 Pro 256 Гб черный
 Корпус: Без следов эксплуатации
 Экран: Без дефектов
 Здоровье АКБ: 100%
@@ -412,6 +299,35 @@
       <param name="Память">256 Гб</param>
       <param name="Цвет">черный</param>
       <param name="Состояние">Без следов эксплуатации</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
+    <offer id="355496491477528" available="true">
+      <name>Google Pixel 8a 128Гб чёрный</name>
+      <price>21990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/355496491477528/-1004472974528_2903.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/355496491477528/-1004472974528_2904.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/355496491477528/-1004472974528_2905.jpg</picture>
+      <description>Продается Google Pixel 8a 128 Гб чёрный
+Корпус: Незначительные следы
+Экран: Мелкие царапины
+Здоровье АКБ: Процент недоступен
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Сканер отпечатка, Распознавание лица, NFC.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">128 Гб</param>
+      <param name="Цвет">чёрный</param>
+      <param name="Состояние">Незначительные следы</param>
       <turbo>0</turbo>
       <premium>0</premium>
       <boost>0</boost>
@@ -468,95 +384,6 @@
 🔥 Цена действует при оплате наличными!</description>
       <param name="Память">256 Гб</param>
       <param name="Цвет">золотой</param>
-      <param name="Состояние">Без следов эксплуатации</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
-    <offer id="353917850026723" available="true">
-      <name>Apple iPhone 14 128Гб фиолетовый</name>
-      <price>34990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353917850026723/-1004472974528_433.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353917850026723/-1004472974528_434.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/353917850026723/-1004472974528_435.jpg</picture>
-      <description>Продается Apple iPhone 14 128 Гб фиолетовый
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">128 Гб</param>
-      <param name="Цвет">фиолетовый</param>
-      <param name="Состояние">Без следов эксплуатации</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
-    <offer id="356918381115834" available="true">
-      <name>Samsung Galaxy S25 Ultra 512Гб черный</name>
-      <price>71990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381115834/148471310_104.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381115834/148471310_105.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381115834/148471310_106.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381115834/-1004472974528_768.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381115834/-1004472974528_769.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356918381115834/-1004472974528_770.jpg</picture>
-      <description>Продается Samsung Galaxy S25 Ultra 512 Гб черный
-Корпус: Незначительные следы
-Экран: Без дефектов
-Здоровье АКБ: 97%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Сканер отпечатка, Распознавание лица, NFC.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">512 Гб</param>
-      <param name="Цвет">черный</param>
-      <param name="Состояние">Незначительные следы</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
-    <offer id="355146381716044" available="true">
-      <name>Apple iPhone 15 512Гб розовый</name>
-      <price>52990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/355146381716044/-1004472974528_2200.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/355146381716044/-1004472974528_2202.jpg</picture>
-      <description>Продается Apple iPhone 15 512 Гб розовый
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">512 Гб</param>
-      <param name="Цвет">розовый</param>
       <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
