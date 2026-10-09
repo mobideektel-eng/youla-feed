@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-09 21:17">
+<yml_catalog date="2026-10-09 22:17">
   <shop>
     <name>Мобидик</name>
     <company>ИП Дьячковский Дмитрий Северинович</company>
@@ -69,35 +69,6 @@
       <premium>0</premium>
       <boost>0</boost>
     </offer>
-    <offer id="356024615238805" available="true">
-      <name>Apple iPhone 13 Pro 256Гб золотой</name>
-      <price>44990</price>
-      <currencyId>RUB</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356024615238805/-1004472974528_1073.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356024615238805/-1004472974528_1074.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356024615238805/-1004472974528_1075.jpg</picture>
-      <description>Продается Apple iPhone 13 Pro 256 Гб золотой
-Корпус: Без следов эксплуатации
-Экран: Без дефектов
-Здоровье АКБ: 100%
-Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
-🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
-
-🚚 Условия продажи:
-✔️ Доставка по городу или самовывоз
-✔️ Система Trade-in
-✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
-✔️ Гарантия надежности – никаких скрытых дефектов
-
-🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">256 Гб</param>
-      <param name="Цвет">золотой</param>
-      <param name="Состояние">Без следов эксплуатации</param>
-      <turbo>0</turbo>
-      <premium>0</premium>
-      <boost>0</boost>
-    </offer>
     <offer id="356761826796788" available="true">
       <name>Apple iPhone 15 Pro 256Гб натуральный титан</name>
       <price>63990</price>
@@ -122,6 +93,35 @@
 🔥 Цена действует при оплате наличными!</description>
       <param name="Память">256 Гб</param>
       <param name="Цвет">натуральный титан</param>
+      <param name="Состояние">Без следов эксплуатации</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
+    <offer id="356024615238805" available="true">
+      <name>Apple iPhone 13 Pro 256Гб золотой</name>
+      <price>44990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356024615238805/-1004472974528_1073.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356024615238805/-1004472974528_1074.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356024615238805/-1004472974528_1075.jpg</picture>
+      <description>Продается Apple iPhone 13 Pro 256 Гб золотой
+Корпус: Без следов эксплуатации
+Экран: Без дефектов
+Здоровье АКБ: 100%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">256 Гб</param>
+      <param name="Цвет">золотой</param>
       <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
