@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 05:17">
+<yml_catalog date="2026-11-08 06:17">
   <shop>
     <name>Телмарт</name>
     <company>ИП Поликарпова Наталья Егоровна</company>
@@ -207,6 +207,35 @@
 🔥 Цена действует при оплате наличными!</description>
       <param name="Память">256 Гб</param>
       <param name="Цвет">черный</param>
+      <param name="Состояние">Незначительные следы</param>
+      <turbo>0</turbo>
+      <premium>0</premium>
+      <boost>0</boost>
+    </offer>
+    <offer id="354811959951726" available="true">
+      <name>Apple iPhone 14 Pro 128Гб фиолетовый</name>
+      <price>40990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/354811959951726/-1004472974528_3695.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/354811959951726/-1004472974528_3696.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/354811959951726/-1004472974528_3697.jpg</picture>
+      <description>Продается Apple iPhone 14 Pro 128 Гб фиолетовый
+Корпус: Незначительные следы
+Экран: Без дефектов
+Здоровье АКБ: 76%
+Проверены и работают: Сенсор, Камеры, Микрофон, Динамики, Звонки и мобильный интернет, Wi-Fi, Bluetooth, Кнопки, Зарядка (провод и беспроводная), Face ID.
+🔹 Гарантия: Официальная гарантия от магазина – 3 месяца
+
+🚚 Условия продажи:
+✔️ Доставка по городу или самовывоз
+✔️ Система Trade-in
+✔️ Проверка перед покупкой – убедитесь лично в идеальной работе
+✔️ Гарантия надежности – никаких скрытых дефектов
+
+🔥 Цена действует при оплате наличными!</description>
+      <param name="Память">128 Гб</param>
+      <param name="Цвет">фиолетовый</param>
       <param name="Состояние">Незначительные следы</param>
       <turbo>0</turbo>
       <premium>0</premium>
