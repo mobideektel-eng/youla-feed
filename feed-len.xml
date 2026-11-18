@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-18 08:17">
+<yml_catalog date="2026-11-18 09:17">
   <shop>
     <name>Телмарт</name>
     <company>ИП Поликарпова Наталья Егоровна</company>
@@ -11,15 +11,15 @@
       <category id="1">Мобильные телефоны</category>
     </categories>
     <offers>
-    <offer id="356073900455145" available="true">
-      <name>Apple iPhone 13 mini 128Гб белый</name>
-      <price>25990</price>
+    <offer id="359143403902633" available="true">
+      <name>Apple iPhone 13 256Гб черный</name>
+      <price>31990</price>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356073900455145/-1004472974528_3269.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356073900455145/-1004472974528_3270.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356073900455145/-1004472974528_3271.jpg</picture>
-      <description>Продается Apple iPhone 13 mini 128 Гб белый
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/359143403902633/-1004472974528_3996.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/359143403902633/-1004472974528_3997.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/359143403902633/-1004472974528_3998.jpg</picture>
+      <description>Продается Apple iPhone 13 256 Гб черный
 Корпус: Без следов эксплуатации
 Экран: Без дефектов
 Здоровье АКБ: 100%
@@ -33,8 +33,8 @@
 ✔️ Гарантия надежности – никаких скрытых дефектов
 
 🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">128 Гб</param>
-      <param name="Цвет">белый</param>
+      <param name="Память">256 Гб</param>
+      <param name="Цвет">черный</param>
       <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
@@ -97,15 +97,15 @@
       <premium>0</premium>
       <boost>0</boost>
     </offer>
-    <offer id="359143403902633" available="true">
-      <name>Apple iPhone 13 256Гб черный</name>
-      <price>31990</price>
+    <offer id="356073900455145" available="true">
+      <name>Apple iPhone 13 mini 128Гб белый</name>
+      <price>25990</price>
       <currencyId>RUB</currencyId>
       <categoryId>1</categoryId>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/359143403902633/-1004472974528_3996.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/359143403902633/-1004472974528_3997.jpg</picture>
-      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/359143403902633/-1004472974528_3998.jpg</picture>
-      <description>Продается Apple iPhone 13 256 Гб черный
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356073900455145/-1004472974528_3269.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356073900455145/-1004472974528_3270.jpg</picture>
+      <picture>https://raw.githubusercontent.com/mobideektel-eng/youla-feed/main/photos/356073900455145/-1004472974528_3271.jpg</picture>
+      <description>Продается Apple iPhone 13 mini 128 Гб белый
 Корпус: Без следов эксплуатации
 Экран: Без дефектов
 Здоровье АКБ: 100%
@@ -119,8 +119,8 @@
 ✔️ Гарантия надежности – никаких скрытых дефектов
 
 🔥 Цена действует при оплате наличными!</description>
-      <param name="Память">256 Гб</param>
-      <param name="Цвет">черный</param>
+      <param name="Память">128 Гб</param>
+      <param name="Цвет">белый</param>
       <param name="Состояние">Без следов эксплуатации</param>
       <turbo>0</turbo>
       <premium>0</premium>
